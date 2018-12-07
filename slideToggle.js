@@ -46,7 +46,7 @@ function swet3(){
 			'<div id="bottomtips" class="bottomTips">',
             '   <div class="innerTips">',
             '       <div class="bottomTips-a">',
-            '           <img src="js/fix-bottom2.png" onclick="myChat()" class="responsive-img">',
+            '           <img src="https://4.bp.blogspot.com/-gstF-VQsNvo/XAn0U3H1NQI/AAAAAAAAAFo/rGMwsgwzx8Ejr3CmLPAY84L3D8K-SW1dQCLcBGAs/s1600/KONSULTASI%2BKLINIK%2BUTAMA%2BSENTOSA.png" onclick="myChat()" class="responsive-img">',
             '           <a class="bottomTips-a-a4" href="javascript:void(0)" onclick="myChat()" target="_blank"></a>',
             '           <a class="bottomTips-a-a1" href="tel:0812-6262-1616" target="_blank"></a>',
             '           <a class="bottomTips-a-a2" href="tel:0812-6262-1616" onclick="myChat()" target="_blank"></a>',
